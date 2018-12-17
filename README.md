@@ -13,7 +13,7 @@ $ curl -sf -L https://static.rust-lang.org/rustup.sh | sh
 ```
 $ curl -O https://repo.continuum.io/archive/Anaconda3-5.0.1-Linux-x86_64.sh && source ~/.bashrc
 ```
-## Running the program
+## Running the code
 From the command line, perform one of the following steps:
 * With visualization
 ```
