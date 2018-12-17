@@ -1,0 +1,6 @@
+[package]
+name = "example"
+version = "0.1.0"
+authors = ["Ryan Florida <rjf2u@mtmail.mtsu.edu>"]
+
+[dependencies]
