@@ -21,7 +21,7 @@ cargo clean && cargo build && cargo run
 ```
 * With visualization
 ```
-cargo clean && cargo build && cargo run | hMap.py
+cargo clean && cargo build && cargo run | ./hMap.py
 ```
 **Note that you do not have to clean and build every time you want to run.**
 
