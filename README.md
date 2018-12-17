@@ -1,7 +1,7 @@
 # Solving the heat equation using the finite difference method in Rust.
 
-This is just a short numerical analysis project I did to gain a bit of familiarity with Rust.
-
+This is just a short numerical analysis project I did to gain a bit of familiarity with Rust. The examples were all taken from 
+*Numerical Solution of Partial Differential Equations - Finite Difference Methods 3rd edition* by G.D. Smith.
 ## Prerequisites
 
 This project does require that you have some means by which to run Rust code and, if you want to visualize the results,
@@ -25,9 +25,6 @@ cargo clean && cargo build && cargo run | hMap.py
 ```
 **Note that you do not have to clean and build every time you want to run.**
 
-
 ## Author
 
 * **Ryan Florida**
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
